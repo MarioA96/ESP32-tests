@@ -4,8 +4,8 @@
 #include "FS.h"
 #include <LittleFS.h>
 
-const char* ssid = "INFINITUMA4AC";        // Reemplaza con el nombre de tu red Wi-Fi
-const char* password = "YVdfEtA4Da";       // Reemplaza con tu contraseña
+const char* ssid = "SSID";        // Reemplaza con el nombre de tu red Wi-Fi
+const char* password = "PASS";       // Reemplaza con tu contraseña
 
 const int ledPin = 2;
 String ledState;
